@@ -11,7 +11,7 @@
                     <thead>
                         <th width="5%">No</th>
                         <th>Kode</th>
-                        <th>Nama</th>
+                        <th>Ukuran</th>
                         <th>Harga Beli</th>
                         <th><i class="fa fa-cog"></i></th>
                     </thead>

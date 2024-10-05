@@ -33,7 +33,7 @@
 
 @section('breadcrumb')
     @parent
-    <li class="active">Transaksi Penjaualn</li>
+    <li class="active">Transaksi Penjualan</li>
 @endsection
 
 @section('content')
@@ -63,7 +63,7 @@
                     <thead>
                         <th width="5%">No</th>
                         <th>Kode</th>
-                        <th>Nama</th>
+                        <th>Ukuran</th>
                         <th>Harga</th>
                         <th width="15%">Jumlah</th>
                         <th>Subtotal</th>

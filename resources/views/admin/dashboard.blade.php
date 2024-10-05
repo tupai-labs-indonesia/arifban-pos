@@ -135,7 +135,7 @@
                                 <thead>
                                     <tr>
                                         <th>Kode Produk</th>
-                                        <th>Nama Produk</th>
+                                        <th>Ukuran</th>
                                         <th>Stok</th>
                                     </tr>
                                 </thead>

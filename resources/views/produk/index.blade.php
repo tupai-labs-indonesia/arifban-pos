@@ -30,7 +30,7 @@
                             </th>
                             <th width="5%">No</th>
                             <th>Kode</th>
-                            <th>Nama</th>
+                            <th>Ukuran</th>
                             <th>Kategori</th>
                             <th>Merk</th>
                             <th>Type</th>

@@ -12,9 +12,9 @@
                 </div>
                 <div class="modal-body">
                     <div class="form-group row">
-                        <label for="nama_produk" class="col-lg-2 col-lg-offset-1 control-label">Nama</label>
+                        <label for="merk" class="col-lg-2 col-lg-offset-1 control-label">Merk</label>
                         <div class="col-lg-6">
-                            <input type="text" name="nama_produk" id="nama_produk" class="form-control" required
+                            <input type="text" name="merk" id="merk" class="form-control" required
                                 autofocus>
                             <span class="help-block with-errors"></span>
                         </div>
@@ -32,9 +32,9 @@
                         </div>
                     </div>
                     <div class="form-group row">
-                        <label for="merk" class="col-lg-2 col-lg-offset-1 control-label">Merk</label>
+                        <label for="nama_produk" class="col-lg-2 col-lg-offset-1 control-label">Ukuran</label>
                         <div class="col-lg-6">
-                            <input type="text" name="merk" id="merk" class="form-control">
+                            <input type="text" name="nama_produk" id="nama_produk" class="form-control">
                             <span class="help-block with-errors"></span>
                         </div>
                     </div>
